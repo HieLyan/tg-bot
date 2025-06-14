@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+venv/
+*.env
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+*.sql
+*.sqlite3
+*.sqbpro
+
+# PyCharm
+.idea/
+
+# Model
+*.pkl
+*.index
+
+# Other
+.DS_Store
