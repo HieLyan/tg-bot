@@ -114,4 +114,3 @@ CREATE TABLE feedback (
     ts DATETIME DEFAULT CURRENT_TIMESTAMP
 );
 ```
-~~~~
