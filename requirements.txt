@@ -6,6 +6,7 @@ requests==2.31.0
 deep-translator==1.11.4
 torch==2.7.0+cu118
 torchaudio==2.7.0+cu118
-tmdbsimple==2.9.1           # обёртка для TMDB API
-faiss-cpu                   # локальный FAISS для ANN-поиска
+tmdbsimple==2.9.1
+faiss-cpu
 datasets
+python-dotenv
