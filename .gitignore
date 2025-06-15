@@ -24,4 +24,7 @@ venv/
 # Other
 .DS_Store
 
+.env
 config.py
+__pycache__/
+
